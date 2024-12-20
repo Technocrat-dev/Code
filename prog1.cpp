@@ -28,6 +28,6 @@ int main() {
             }
         }
     }
-    cout << s << ' ';
+    cout << s;
     return 0;
 }
